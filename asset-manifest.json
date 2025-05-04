@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/_sminapp/static/css/main.682999b0.css",
+    "main.js": "/_sminapp/static/js/main.b3979c47.js",
+    "static/js/453.532bbcff.chunk.js": "/_sminapp/static/js/453.532bbcff.chunk.js",
+    "static/media/smintech.svg": "/_sminapp/static/media/smintech.58671fe454573ca9539df0637db8ce0a.svg",
+    "index.html": "/_sminapp/index.html",
+    "main.682999b0.css.map": "/_sminapp/static/css/main.682999b0.css.map",
+    "main.b3979c47.js.map": "/_sminapp/static/js/main.b3979c47.js.map",
+    "453.532bbcff.chunk.js.map": "/_sminapp/static/js/453.532bbcff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682999b0.css",
+    "static/js/main.b3979c47.js"
+  ]
+}
