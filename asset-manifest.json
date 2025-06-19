@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/_sminapp/static/css/main.682999b0.css",
-    "main.js": "/_sminapp/static/js/main.2ef42cfd.js",
+    "main.js": "/_sminapp/static/js/main.df8cb640.js",
     "static/js/453.c78cd50d.chunk.js": "/_sminapp/static/js/453.c78cd50d.chunk.js",
-    "static/media/smintech.svg": "/_sminapp/static/media/smintech.58671fe454573ca9539df0637db8ce0a.svg",
+    "static/media/smineweb.png": "/_sminapp/static/media/smineweb.cb0da64d2a723760bbd9.png",
     "index.html": "/_sminapp/index.html",
     "main.682999b0.css.map": "/_sminapp/static/css/main.682999b0.css.map",
-    "main.2ef42cfd.js.map": "/_sminapp/static/js/main.2ef42cfd.js.map",
+    "main.df8cb640.js.map": "/_sminapp/static/js/main.df8cb640.js.map",
     "453.c78cd50d.chunk.js.map": "/_sminapp/static/js/453.c78cd50d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.682999b0.css",
-    "static/js/main.2ef42cfd.js"
+    "static/js/main.df8cb640.js"
   ]
 }
